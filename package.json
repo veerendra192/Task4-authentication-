@@ -1,0 +1,15 @@
+{
+  "name": "task-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "veerendra",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.4.6",
+    "node": "^18.5.0"
+  }
+}
